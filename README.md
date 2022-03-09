@@ -1,4 +1,4 @@
-## eBook App - Flutter UI :::::::::::::::::::::
+## eBook App - Flutter UI ::::::::::::::::::::
 
 <!-- **Packages we are using:**
 
