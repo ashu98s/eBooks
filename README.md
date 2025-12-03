@@ -8,7 +8,7 @@
 
 - Poppins [link](https://fonts.google.com/specimen/Poppins) -->
 
-eBook (reading book) app designed by Flutter, On the home page, it shows you some recommended books, also the book of the day. At the bottom you gonna find your most recent book that you read. On the details page book info with its chapters. note that this is UI only.
+eBook (reading book) app designed by Flutter, On the home page, it shows you some recommended books, also the book of the day. At the bottom you gonna find your most recent book that you read. On the details page book info with its chapters. Just so you know, this is UI only.
 
 ### App Final UI
 ![eBook](https://user-images.githubusercontent.com/36065206/147878244-3a1f9f22-c69e-4375-879a-b5dc3747d022.png)
